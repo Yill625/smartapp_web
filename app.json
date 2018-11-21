@@ -1,0 +1,10 @@
+{
+	"pages": [
+		"pages/index/index"
+	],
+	"window": {
+		"navigationBarTitleText": "深圳小程序+",
+        "navigationBarBackgroundColor":"#FFFFFF",
+        "navigationBarTextStyle":"black"
+	}
+}
